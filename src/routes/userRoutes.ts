@@ -1,7 +1,6 @@
 import { Router } from 'express';
 import { AppDataSource } from '../data-source';
 import { User } from '../entity/User';
-import { log } from 'console';
 
 const router = Router();
 
